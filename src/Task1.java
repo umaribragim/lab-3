@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// TASK 1 – SIMPLE CALCULATOR, USING FROM INPUT - OUTPUT OPERATIONS
+
 public class Task1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
